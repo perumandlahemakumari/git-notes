@@ -1,4 +1,4 @@
-# git-notes
+
 # Git Commands Cheat Sheet
 
 ## 1. Initialize a New Git Repository & Push to GitHub
