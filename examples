@@ -1,4 +1,4 @@
-# Initialize a New Git Repository & Push to GitHub
+** Initialize a New Git Repository & Push to GitHub **
 # Create a new local repository
 git init  
 
