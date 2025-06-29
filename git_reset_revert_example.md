@@ -3,10 +3,10 @@
 
 This guide explains the **difference between `git revert` and `git reset`** using examples. We'll cover:
 
-- `git revert`
-- `git reset --soft`
-- `git reset --mixed`
-- `git reset --hard`
+- `git revert` :     Creates a new commit that undoes the changes of a previous commit — safe for shared branches.
+- `git reset --soft` : Moves HEAD to a previous commit, keeps all changes staged (in the index).
+- `git reset --mixed` : Moves HEAD to a previous commit, keeps changes in working directory, but unstages them.
+- `git reset --hard` : Moves HEAD to a previous commit and discards all changes in both staging and working directory — irreversible.
 
 ---
 
